@@ -74,3 +74,4 @@
       - Storage Area Network (SAN)
       - Object Storage Solutions
       - Backup and Recovery Services
+5. **Service Usage Type** - тип использования сервиса (из колонки usage type)
