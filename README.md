@@ -37,3 +37,40 @@
    - Data Analytics and Business Intelligence - этот тип сервиса охватывает услуги, связанные с анализом данных, отчетностью и инструментами бизнес-аналитики. Он включает платформы для визуализации данных, интеллектуального анализа данных, хранения данных и прогнозной аналитики.
    - Network Services - этот тип услуг включает в себя услуги, связанные с подключением к сети и коммуникациями, как внутренними, так и внешними. Примерами могут служить подключение к Интернету, услуги глобальной сети (WAN), услуги локальной сети (LAN) и решения для передачи голоса по IP (VoIP).
    - Storage Services - этот тип сервиса охватывает услуги, связанные с хранением данных и управлением ими. Он включает в себя такие сервисы, как хранилище с подключением к сети (NAS), хранилище с прямым подключением (DAS) и решения для сетей хранения данных (SAN).
+4. **Service Sub Type** - подтип сервиса с определенной функцией
+   - Software as a Service (SaaS):
+      - Customer Relationship Management (CRM)
+      - Project Management
+      - Collaboration and Communication
+      - Human Resources Management
+      - Email and Productivity Suites
+    - Platform as a Service (PaaS):
+      - Application Development Platforms
+      - Database Hosting Services
+      - Serverless Computing Environments
+      - API Management Platforms
+      - Integration and Middleware Services
+    - Infrastructure as a Service (IaaS):
+      - Cloud-based Virtual Machines
+      - Storage and Content Delivery
+      - Networking and Load Balancing
+      - Disaster Recovery Services
+      - Identity and Access Management
+    - Data Analytics and Business Intelligence:
+      - Data Visualization Tools
+      - Data Warehousing Solutions
+      - Reporting and Dashboards
+      - Data Mining and Machine Learning
+      - Predictive Analytics Platforms
+    - Network Services:
+      - Internet Connectivity Services
+      - Wide Area Network (WAN) Solutions
+      - Local Area Network (LAN) Services
+      - Voice over IP (VoIP) Solutions
+      - VPN and Remote Access Services
+    - Storage Services:
+      - Network-Attached Storage (NAS)
+      - Direct-Attached Storage (DAS)
+      - Storage Area Network (SAN)
+      - Object Storage Solutions
+      - Backup and Recovery Services
