@@ -83,6 +83,8 @@ Yandex Data Transfer позволяет:
 * резервировать и сохранять данные из любых доступных источников в Yandex Object Storage;
 * сохранять в облачные хранилища произвольные данные, которые поступают от брокеров сообщений.
 
+7. **Yandex Managed Service for Elasticsearch** помогает разворачивать и поддерживать кластеры серверов Elasticsearch в инфраструктуре Yandex Cloud. Сервис позволяет в несколько кликов увеличить или уменьшить потребление облачных ресурсов при изменениях нагрузки. Также Еlasticsearch предоставляет набор аналитических инструментов, с помощью которых можно получать информацию и принимать решения на основе журналов событий и метрик, повышать эффективность операций в ИТ, сокращать время принятия решений, получать данные для разработки и информационной безопасности.
+   
 ## Итоговая таблица
 | AWS                                      | Analog                                     |
 |------------------------------------------|--------------------------------------------|
@@ -91,4 +93,4 @@ Yandex Data Transfer позволяет:
 | AmazonPolly                              | Yandex SpeechKit                           |
 | AmazonPersonalize                        |                                            |
 | Amazon S3                                | Облачное объектное хранилище S3 (Selectel), Yandex Object Storage, Yandex Data Transfer |
-| Amazon Elasticsearch Service (Amazon ES) |                                            |
+| Amazon Elasticsearch Service (Amazon ES) | Yandex Managed Service for Elasticsearch   |
